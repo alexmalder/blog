@@ -1,0 +1,15 @@
+{
+  "textFontFamily": "Apple SD Gothic Neo,UbuntuMono Nerd Font",
+  "interfaceFontFamily": "Apple SD Gothic Neo",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "accentColor": "#ec1313",
+  "nativeMenus": true,
+  "translucency": true,
+  "cssTheme": "",
+  "monospaceFontFamily": "IosevkaTerm Nerd Font,UbuntuMono Nerd Font,Proxima Nova",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "pdf-dark"
+  ]
+}

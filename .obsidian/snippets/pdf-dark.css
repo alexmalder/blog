@@ -1,0 +1,5 @@
+Dark mode (invert)
+.theme-dark .pdf-embed iframe,
+.theme-dark .workspace-leaf-content[data-type=“pdf”] iframe {
+filter: invert(0.85);
+}
